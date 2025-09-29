@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: My Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Quarkus:
+      - Intro: Quarkus/intro.md

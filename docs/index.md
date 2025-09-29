@@ -2,7 +2,7 @@
 
 Hello World!
 
-I’m **Rose WnjiruMuragu**, a dedicated **software developer** with strong skills in **Java, Quarkus, React, and cloud-native development**.  
+I’m **Rose Wanjiru Muragu**, a dedicated **software developer** with strong skills in **Java, Quarkus, React, and cloud-native development**.  
 This site is both my **portfolio** and my **technical documentation hub** — a space where I organize my knowledge, share insights, and demonstrate my growth as a developer.
 
 ---
@@ -27,18 +27,16 @@ This site highlights my:
 
 ## 📂 Explore My Work
 
-- [Quarkus Documentation](quarkus/intro.md)
-- [React Documentation](react/intro.md)
-- [Java Documentation](java/basics.md)
+- [Quarkus Documentation](Quarkus/intro.md)
 
 ---
 
 ## 🌐 Connect With Me
 
 - **GitHub**: [github.com/rosycode01](https://github.com/rosycode01)
-- **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rosycode01/)
+- **Email**: rosemuragu4@gmail.com
 
 ---
 
-gi📌 _This platform is more than notes — it’s proof of my developer journey, my problem-solving approach, and my readiness to contribute to professional software projects._
+_This platform is more than notes — it’s proof of my developer journey, my problem-solving approach, and my readiness to contribute to professional software projects._
