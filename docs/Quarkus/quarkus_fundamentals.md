@@ -1,5 +1,5 @@
-.,5# Part 1: Quarkus Fundamentals – How I Approached It \'i \
- i9i u8jnu9ok,0-jn nji9ol,.lpo0po;l/.c
+# Part 1: Quarkus Fundamentals – How I Approached It
+
 When I first started learning Quarkus, I knew I couldn’t just jump straight into coding — I needed to understand the **“why”** and **“what”** first. So, I began by exploring the fundamentals, asking myself questions like: _What makes Quarkus special? Why should I use it instead of Spring Boot?_
 
 ## Getting to Know Quarkus
@@ -9,7 +9,7 @@ cf c
 
 ## Why Quarkus Matters
 
-Il made a list of benefits in simple words:
+I made a list of benefits in simple words:
 
 - **Fast startup times** — my apps wouldn’t take forever to run.
 - **Low memory usage** — perfect for cloud deployments.
@@ -38,4 +38,8 @@ It was like switching from walking on a straight path (imperative) to learning t
 
 I read about Quarkus’ ability to **compile apps into native executables** and run them in **containers like Docker**.
 
-I thought: _this is exactly what real enterprise apps do_. Even though I didn’t build one yet, knowing it was possible made me feel like I was preparing for **professional-grade projects**.
+I thought: _this is exactly what real enterprise apps do_. Even though I didn’t build one yet, knowing it was possible made me feel like I was preparing for **professional-grade projects** and watched the app **start instantly**. Seeing it work in **live reload mode** was exciting — I could change code and see updates immediately.
+
+## Playing Around with the Project
+
+I started experimenting:After getting familiar with the theory, I moved to **hands-on practice**. This was where I went from “learning” to actually **building something**.

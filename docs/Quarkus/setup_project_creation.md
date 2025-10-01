@@ -1,10 +1,4 @@
-and watched the app **start instantly**. Seeing it work in **live reload mode** was exciting — I could change code and see updates immediately.
-
-## Playing Around with the Project
-
-I started experimenting:# Setup & Project Creation – How I Made It Work
-
-After getting familiar with the theory, I moved to **hands-on practice**. This was where I went from “learning” to actually **building something**.
+# Setup & Project Creation – How I Made It Work
 
 ## Installing Quarkus SDK
 

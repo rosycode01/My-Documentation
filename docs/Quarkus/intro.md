@@ -285,6 +285,6 @@ To systematically learn Quarkus and master enterprise backend development, I dec
 </details>
 
 ## Lets handle quarkus together step by step
-### Jump to Sections
-- [Quarkus Fundamentals](#quarkus-fundamentals)
-- [Setup & Project Creation](#setup--project-creation)
+
+- [Quarkus Fundamentals](quarkus_fundamentals.md)
+- [Setup & Project Creation](setup_project_creation.md)

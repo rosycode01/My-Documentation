@@ -7,6 +7,5 @@ nav:
   - Home: index.md
   - Quarkus:
       - Intro: Quarkus/intro.md
-           - Lets handle Quarkus together step by step:
-               - Quarkus Fundamentals: quarkus_fundamentals.md
-               - Setup & Project Creation: setup_project_creation.md
+      - Quarkus Fundamentals: Quarkus/quarkus_fundamentals.md
+      - Setup & Project Creation: Quarkus/setup_project_creation.md
