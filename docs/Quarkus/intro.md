@@ -289,3 +289,4 @@ To systematically learn Quarkus and master enterprise backend development, I dec
 - [Quarkus Fundamentals](quarkus_fundamentals.md)
 - [Setup & Project Creation](setup_project_creation.md)
 - [Dependency_Injection_and_Beans](Dependency_Injection_and_Beans.md)
+- [Restful_web_services](Restful_web_services.md)

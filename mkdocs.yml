@@ -10,3 +10,4 @@ nav:
       - Quarkus Fundamentals: Quarkus/quarkus_fundamentals.md
       - Setup & Project Creation: Quarkus/setup_project_creation.md
       - Dependency Injection and Beans: Quarkus/Dependency_Injection_and_Beans.md
+      - Restful_web_services: Quarkus/Restful_web_services.md
