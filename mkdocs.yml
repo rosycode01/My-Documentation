@@ -9,3 +9,4 @@ nav:
       - Intro: Quarkus/intro.md
       - Quarkus Fundamentals: Quarkus/quarkus_fundamentals.md
       - Setup & Project Creation: Quarkus/setup_project_creation.md
+      - Dependency Injection and Beans: Quarkus/Dependency Injection and Beans
